@@ -1,14 +1,11 @@
 <h1 align="center">Hi there! Learn about me😀</h1>
 <img align="right" height = "160em" style="border-radius: 8px" src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47bn5vtf1fv7ldg4j61c33flfkkj5lmbik83t9prjz&rid=giphy.gif&ct=g">
 
-<div style="display: flex"><br>
-  <div>
-    <p align="left">• 📍 I'm from Recife, Brasil</p>
-    <p align="left">• 🏛️ Currently, I'm studying Computer Science at <a href="https://portal.cin.ufpe.br">CIn - UFPE</a></p>
-    <p align="left">• 🔍 I am mostly interested in AI, Machine Learning and Web Development</p>
-    <p align="left">• ⌛ I'm currently learning Front-end development using <a href="https://reactjs.org">ReactJS</a></p>
-  </div>
-</div>
+
+<p align="left">• 📍 I'm from Recife, Brasil</p>
+<p align="left">• 🏛️ Currently, I'm studying Computer Science at <a href="https://portal.cin.ufpe.br">CIn - UFPE</a></p>
+<p align="left">• 🔍 I am mostly interested in AI, Machine Learning and Web Development</p>
+<p align="left">• ⌛ I'm currently learning Front-end development using <a href="https://reactjs.org">ReactJS</a></p>
 
 
 <div style="display: inline_block"><br>
@@ -32,8 +29,9 @@
 </div>
 
 <hr />
-  <div>
-    <h3>Stats<h3>
+
+  <h3>Stats<h3>
+  <div style="display: inline_block">
     <a href="https://github.com/artursanntos">
     <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=artursanntos&show_icons=true&theme=codeSTACKr"/>
     <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursanntos&show_icons=true&theme=codeSTACKr&layout=compact"/>
