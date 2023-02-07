@@ -33,8 +33,8 @@
   <h3>Stats<h3>
   <div style="display: inline_block">
     <a href="https://github.com/artursanntos">
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=artursanntos&show_icons=true&theme=codeSTACKr"/>
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursanntos&show_icons=true&theme=codeSTACKr&layout=compact"/>
+    <img height = "140em" src="https://github-readme-stats.vercel.app/api?username=artursanntos&show_icons=true&theme=codeSTACKr"/>
+    <img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursanntos&show_icons=true&theme=codeSTACKr&layout=compact"/>
   </div>
 
   
