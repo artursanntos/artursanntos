@@ -4,7 +4,7 @@
 
 <p align="left">• 📍 I'm from Recife, Brasil</p>
 <p align="left">• 🏛️ Currently, I'm studying Computer Science at <a href="https://portal.cin.ufpe.br">CIn - UFPE</a></p>
-<p align="left">• 🔍 I am mostly interested in AI, Machine Learning and Web Development</p>
+<p align="left">• 🔍 I am mostly interested in Frontend Development</p>
 <p align="left">• ⌛ I'm currently learning Front-end development using <a href="https://reactjs.org">ReactJS</a></p>
 <div style="display: inline_block"><br>
 <h3>Tools i have worked with</h3>
