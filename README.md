@@ -27,10 +27,10 @@
   ##
 
   <h3>Stats<h3>
-  <div style="display: inline_block">
+  <div style="display: inline_flex">
     <a href="https://github.com/artursanntos">
-    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=artursanntos&show_icons=true&theme=codeSTACKr"/>
-    <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursanntos&show_icons=true&theme=codeSTACKr&layout=compact"/>
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=artursanntos&show_icons=true&theme=dark"/>
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursanntos&show_icons=true&theme=dark&layout=compact"/>
   </div>
 
 
