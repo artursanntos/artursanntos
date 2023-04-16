@@ -6,11 +6,11 @@
 <p align="left">• 🏛️ Currently, I'm studying Computer Science at <a href="https://portal.cin.ufpe.br">CIn - UFPE</a></p>
 <p align="left">• ⌛ I'm currently learning Front-end development using <a href="https://reactjs.org">ReactJS</a></p>
 <div style="display: inline_block"><br>
-<h3>Tools i have worked with</h3>
+<h3>Tools i enjoy</h3>
   <img align="center" alt="PythonIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTMLIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSSIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JsIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TsIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ReactIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="CppIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="CIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
